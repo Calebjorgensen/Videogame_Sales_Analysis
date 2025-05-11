@@ -1,8 +1,8 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+# h3 Videogame Sales Analysis
 
-{Provide a description of the data set that you are analyzing.  Include the link of where you obtained the data.}
+I am analysis a CSV file that has stored all the data on videogame sales for about the last 40 years. It has year of release, name, sales, publisher and more.
 
 {Describe your purpose for writing this software to analyze the data.}
 
