@@ -8,7 +8,7 @@ The purpose of this software is to get insights in what videogame companies and 
 
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/aAznXmx7yu8)
 
 # Data Analysis Results
 
@@ -24,12 +24,10 @@ I use Python for it simple and straight forward syntax. And as I was using pytho
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](https://www.w3schools.com/python/python_syntax.asp)
-* [Web Site Name](https://www.w3schools.com/python/pandas/default.asp)
+* [Python W3Schools](https://www.w3schools.com/python/python_syntax.asp)
+* [Panda W3Schools](https://www.w3schools.com/python/pandas/default.asp)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
 * I want to make it is so that the bar graph is also color coordinated to follow publishers.
-* Item 2
-* Item 3
+* Make it so that you can API to the CSV file and not have to download and it store it.
